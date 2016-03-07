@@ -1,0 +1,11 @@
+[
+{ "input": "ITEM000001"},
+{ "input": "ITEM000001"},
+{ "input": "ITEM000001"},
+{ "input": "ITEM000001"},
+{ "input": "ITEM000001"},
+{ "input": "ITEM000003-2"},
+{ "input": "ITEM000005"},
+{ "input": "ITEM000005"},
+{ "input": "ITEM000005"}
+]

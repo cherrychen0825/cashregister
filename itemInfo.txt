@@ -1,0 +1,5 @@
+[
+{ "itemNum": "ITEM000001", "itemName": "羽毛球", "itemPrice": "1.00" , "itemUnit": "个"},
+{ "itemNum": "ITEM000003", "itemName": "苹果", "itemPrice": "5.50", "itemUnit": "斤"},
+{ "itemNum": "ITEM000005", "itemName": "可口可乐", "itemPrice": "3.00", "itemUnit": "瓶"}
+]
